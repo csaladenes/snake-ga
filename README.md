@@ -24,6 +24,9 @@ To run and show the game, executes in the snake-ga folder:
 ```python
 python snakeClass.py
 ```
+
+[RUNNING IN COLAB](https://colab.research.google.com/drive/1xtiBrGeRHmXY3KSOixkZBf_rJIgBImJu?usp=sharing#scrollTo=wWRYdkJzIqW3)
+
 Arguments description:
 
 - --display - Type bool, default True, display or not game view
